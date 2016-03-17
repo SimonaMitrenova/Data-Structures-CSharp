@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventsInGivenDateRange", "EventsInGivenDateRange\EventsInGivenDateRange.csproj", "{77C3AAAA-008D-45E3-B96E-8907E64517C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RopeForEfficientStringEditing", "RopeForEfficientStringEditing\RopeForEfficientStringEditing.csproj", "{B4A0D573-F27E-4E99-8C06-8D5E53586C54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77C3AAAA-008D-45E3-B96E-8907E64517C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77C3AAAA-008D-45E3-B96E-8907E64517C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77C3AAAA-008D-45E3-B96E-8907E64517C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77C3AAAA-008D-45E3-B96E-8907E64517C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4A0D573-F27E-4E99-8C06-8D5E53586C54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4A0D573-F27E-4E99-8C06-8D5E53586C54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4A0D573-F27E-4E99-8C06-8D5E53586C54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4A0D573-F27E-4E99-8C06-8D5E53586C54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
